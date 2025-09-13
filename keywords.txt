@@ -1,0 +1,126 @@
+Hairline
+Thin
+Ultra Light
+Extra Light
+Light
+Book
+Regular
+Normal
+Roman
+Plain
+Standard
+Medium
+Semi Bold
+Demi Bold
+Bold
+Extra Bold
+Ultra Bold
+Black
+Heavy
+Extra Black
+Ultra Black
+Fat
+Poster
+Fat Face
+Heavy Black
+Ultra Heavy
+Ink Trap
+Feather
+Ghost
+Display Bold
+Headline Bold
+Italic
+Oblique
+Slanted
+Cursive
+Script
+Small Caps
+All Caps
+Upright Italic
+Compressed
+Extra Condensed
+Condensed
+Semi Condensed
+Normal Width
+Semi Extended
+Extended
+Extra Extended
+Ultra Extended
+Wide
+Expanded
+Caption
+Text
+Display
+Optical Size
+Variable Font
+Grayscale
+Monochrome
+Outline
+Inline
+Shadow
+Stencil
+Rough
+Distressed
+Rounded
+1
+2
+3
+3D
+4
+5
+Academy
+Bd Bt
+Bdcn Bt
+Bk Bt
+Blackoblique
+Bookoblique
+Bt
+Ce
+Ce Mt
+Cond
+Cond Cond
+Demi
+Demo
+Extrabold
+Extras
+Extralight
+Gothic
+Grotesk
+Grotesk Cond Lt
+Grotesk Semibold
+Grotesk X Cond
+Grotesk X Cond Lt
+Heavyoblique
+Itc
+Leftalic
+Lightoblique
+Lined
+Lt Bt
+Mediumoblique
+Mono
+Ms
+Mt
+Mt Ext
+Narrow
+New
+Old Face
+Personal Use Only
+Print
+Pro
+Pro Mono
+Rg
+Rotalic
+Rotated
+Sans Extrabold
+Sans Sc
+Sans Sc Extrabold
+Schoolbook
+Sectioned
+Semibold
+Semirounded
+Slant
+Staggered
+Std
+Ultralight
+Unicode
+Unicode Ms
